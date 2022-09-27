@@ -1,4 +1,4 @@
-# Week 1
+# Week 2
 
 - Choix du sujet "BTree" pour la présentation semaine 4.
 - Continuation du mooc Pharo pour apprendre à maitriser le langage.
