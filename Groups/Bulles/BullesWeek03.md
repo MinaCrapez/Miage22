@@ -10,4 +10,9 @@
 	-crée l'UML général
 	-analysé les méthodes
 	-trouvé un design pattern
+	- testé et analysé le code du projet BTree en pharo
 	-préparé le diaporama pour le jour J
+
+lien du diaporama pour l'oral :
+https://docs.google.com/presentation/d/1mj-C2-doKcqbF_BrO89jNDAC6VgXU7IGofeMT5VVs3o/edit#slide=id.p
+
